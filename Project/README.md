@@ -1,0 +1,10 @@
+# Malaysia Crime Analysis and Prediction
+
+#### <u>Problem Statement</u>
+Malaysia is a country with a notably high crime rate, especially in its urban centers. Urban centers like Kuala Lumpur, Penang and Johor Bahru face significant levels of theft, burglary and violent crimes. There is a pressing need for targeted crime prevention strategies and efficient resource allocation. Additionally, the lack of predictive crime prevention suggests that the current systems often react to crimes rather than predicting them. This limitation makes it challenging to pinpoint potential crime hotspots or times requiring increased vigilance. This could lead to police and other law enforcement agencies often deploy resources inefficiently due to the lack of actionable insights.
+
+#### <u>Executive Summary</u>
+The objective of this notebook is to analyze and predict crime patterns based on collected data. The challenge at hand is approached as a regression problem, where the target variable is the number of crimes reported ("crimes"). By utilizing the model developed in this notebook, the number of crimes can be predicted based on features such as state, district, category, type, and date. These predictions will help identify trends over time and regions, enabling law enforcement to anticipate areas with a higher likelihood of criminal activity. By leveraging these insights, resources can be allocated more effectively, patrols can be optimized in high-risk areas, and strategies for crime prevention can be improved, ultimately enhancing public safety.
+
+#### <u>Data Collection</u>
+The dataset is obtained from [data.gov.my](https://data.gov.my/data-catalogue/crime_district) which consist of the number of crimes in Malaysia by district, crime category, and type of crime. The data is collected by the Police Reporting System administered by the Royal Malaysian Police. To run the code locally, you could access the github repository link below and look under `README.md` file for the compilation instructions.
