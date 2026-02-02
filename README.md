@@ -6,7 +6,7 @@ This repository consists of 4 labs that focus on addressing various machine lear
 ## __Compilation Instructions__
 1. In your terminal, clone the repository by typing 
 ```bash
-git clone https://github.com/Melo04/ML-assignment.git
+git clone https://github.com/CheeChoong14/ML-Projects-Portfolio.git
 ```
 2. After that, type the below command. This directory is where your virtual environment and its dependencies are installed.
 ```bash
